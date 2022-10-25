@@ -1,0 +1,5 @@
+apple,0,0
+apple,6,8
+orange,5,8
+apple,1,6
+apple,2,1
